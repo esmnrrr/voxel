@@ -1,0 +1,7 @@
+balcony_green olanlar home 20 ve home 21 icin tasarlandi
+
+balcony_blue olanlar home 22 ve home 23 icin tasarlandi
+
+Burada kalabalik etmemesi acisindan ayri ayri tasarladim ki oyun motoruna atildiginda cesitlilik yapilabilir sekilde olacaktir. 
+
+Ayrica 20-23 arasindaki evler balcony olmadan da duz bir sekilde kullanima hazirlar.
